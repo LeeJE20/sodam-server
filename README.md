@@ -35,7 +35,7 @@
 
 | <a href="https://github.com/LeeJE20"><img src="https://github.com/LeeJE20.png" width="120"/></a> | <a href="https://github.com/Nahee-Park"><img src="https://github.com/Nahee-Park.png" width="120"/></a> | <a href="https://github.com/choiyoorim"><img src="https://github.com/choiyoorim.png" width="120"/></a> | 
 | :---: | :---: | :---: | 
-| [LeeJE20](https://github.com/LeeJE20) | [Nahee-Park](https://github.com/Nahee-Park) | [woori0214](https://github.com/woori0214) | 
+| [LeeJE20](https://github.com/LeeJE20) | [Nahee-Park](https://github.com/Nahee-Park) | [choiyoorim](https://github.com/choiyoorim) | 
 | 팀장, 백엔드 | 백엔드 | 백엔드 |
 | 팀 운영 담당 <br/> - 일정 조율 <br/> - 회의 진행 <br/> - 공지 작성 | 기록 및 문서화 담당 <br/> (리드미, 노션) | Task Manage 담당 <br/> (칸반보드 관리) | 
 | 협업 담당 <br/> - 페어 프로그래밍 <br/> - 개발 컨벤션 체크 <br/> - 소통 체크 | 기술 담당 <br/> - 코드 퀄리티 <br/> - 기술 이슈 <br/> - 타 파트와스 소통 | 과제 담당 <br/> - 과제 제출 기한 <br/> - 과제 제출 여부 | 
